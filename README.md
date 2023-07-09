@@ -1,1 +1,1 @@
-added badges (#45)
+Add plot_images conf_thresh parameter (#8446)
