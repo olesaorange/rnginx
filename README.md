@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Fix OBB xywh-angle concatenation bug (#7404)
