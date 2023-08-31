@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
