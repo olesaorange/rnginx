@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Auto-format by https://ultralytics.com/actions
