@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Fix docker.yaml double-quote version bug (#7452)
