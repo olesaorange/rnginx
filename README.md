@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+New HUB Cloud Training docs page (#8174)
