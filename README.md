@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Compress docs images (#8124)
