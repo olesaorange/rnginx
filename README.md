@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
