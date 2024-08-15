@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+YOLOv8 INT8 TFLite Inference Example (#7317)
